@@ -5,4 +5,4 @@ for i in range (a):
     nolist.append(int(input("enter the element:")))
     if ((i% 2)==1):
         sum=sum+nolist[i]
-print(sum)
+print("The sum of odd numbers in the list:",sum)
